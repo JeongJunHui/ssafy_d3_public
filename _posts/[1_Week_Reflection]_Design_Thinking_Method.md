@@ -1,5 +1,5 @@
 ---
-title : [1_Week_Reflection]_Design_Thinking_Method
+title : 1_Week_Reflection_Design_Thinking_Method
 ---
 
 #### [1주차 Reflection] Design Thinking 방법론
