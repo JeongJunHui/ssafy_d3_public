@@ -1,5 +1,3 @@
-theme : sky
----
 # 삼청 교육대
 ---
 # 목차
@@ -37,4 +35,7 @@ theme : sky
 <img src="https://user-images.githubusercontent.com/46041647/50432573-f459cd80-0915-11e9-8df7-cee9b6faef4e.jpg" width="40%" height="55%"></img>
 ---
 #### 연말 계획 및 12월 31일에 하고 싶은 것
+- 신년계획 세우기
+- 친구들과 송년회 보내기
+- 집에서 편하게 티비보면서 연말보내기
 ---?image=template/img/questions-1.png&size=80% auto @title[Questions #1]
