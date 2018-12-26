@@ -1,3 +1,7 @@
+---
+title : [1_Week_Reflection]_Design_Thinking_Method
+---
+
 #### [1주차 Reflection] Design Thinking 방법론
 
 | 단계 | 정의 | 활용 Tool |
