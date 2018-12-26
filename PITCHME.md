@@ -17,7 +17,8 @@
 조원 : 박한범, 임연지, 이동규, 김동욱
 ---
 ### 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
-![samchung](https://user-images.githubusercontent.com/46041647/50432573-f459cd80-0915-11e9-8df7-cee9b6faef4e.jpg){: width="100px" height="100px"}
+![samchung](https://user-images.githubusercontent.com/46041647/50432573-f459cd80-0915-11e9-8df7-cee9b6faef4e.jpg)
+<img src="https://user-images.githubusercontent.com/46041647/50432573-f459cd80-0915-11e9-8df7-cee9b6faef4e.jpg" width="500" height="650"></img>
 
 ---
 ### 연말 계획 및 12월 31일에 하고 싶은 것
