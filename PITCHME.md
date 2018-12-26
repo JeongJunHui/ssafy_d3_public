@@ -1,7 +1,7 @@
 ---
 # 삼청 교육대
 ---
-# 
+# 목차
 @snap[south-west list-content-concise span-100] @ol
 
 - 팀원들의 이름과 별명, 성격
