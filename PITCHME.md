@@ -19,3 +19,7 @@
 # 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
 ---
 # 연말 계획 및 12월 31일에 하고 싶은 것
+---
+@snap[south-west template-note text-gray] Audience questions template. @snapend
+
+---?image=template/img/questions-2.png&size=80% auto @title[Questions #2]
