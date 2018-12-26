@@ -38,4 +38,4 @@
 - 신년계획 세우기
 - 친구들과 송년회 보내기
 - 집에서 편하게 티비보면서 연말보내기
----?image=template/img/questions-1.png&size=80% auto @title[Questions #1]
+
