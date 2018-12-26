@@ -14,14 +14,12 @@ theme : sky
 @snap[south-west template-note text-gray] Concise list-item fragments template. @snapend
 ---
 #### 팀원들의 이름과 별명, 성격
-팀장
--
+##### 팀장
+
 이름 : <b>정준희</b>
 벌명 : <b>찐버</b>
 성격 : <b>내성적</b>
 
-조원
--
 이름 : <b>이동규</b>
 별명 : <b>벙글</b> 
 성격 : <b>외향적</b>
