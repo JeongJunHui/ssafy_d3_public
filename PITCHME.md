@@ -1,5 +1,7 @@
----
-# 삼청 교육대
+---?color=#7FCEFC
+
+# @size[150px](삼청교육대)
+
 ---
 # 목차
 @snap[south-west list-content-concise span-100] @ol
