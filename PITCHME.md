@@ -1,7 +1,8 @@
 ---
 # 삼청 교육대
 ---
-# @snap[north-west] 목차 @snapend
+# 
+@snap[north-west] 목차 @snapend
 @snap[south-west list-content-concise span-100] @ol
 
 - 팀원들의 이름과 별명, 성격
@@ -9,6 +10,7 @@
 - 연말 계획 및 12월 31일에 하고 싶은 것@olend 
 
   @snapend
+@snap[south-west template-note text-gray] Concise list-item fragments template. @snapend
 ---
 # 팀원들의 이름과 별명, 성격
 팀장 : 정준희
